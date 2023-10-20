@@ -1,0 +1,12 @@
+query {
+  items {
+    data {
+      id
+      attributes {
+        Name
+        Date
+        Important
+      }
+    }
+  }
+}
